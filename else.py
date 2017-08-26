@@ -1,1 +1,2 @@
-something else
+import numpy
+a = 10
